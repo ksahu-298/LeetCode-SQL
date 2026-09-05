@@ -67,7 +67,6 @@ LeetCode--DSA-SQL/
 
 ## 📈 Progress
 
-*(Update manually or link a stats badge here as the problem count grows.)*
 
 - Total problems solved: **1+**
 - Focus areas: SQL fundamentals, arrays, strings, and core DSA patterns (expanding over time)
