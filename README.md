@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧩 LeetCode -- DSA & SQL
+# 🧩 LeetCode -- SQL
 
-**A structured archive of Data Structures, Algorithms & SQL problem solutions — solved, tracked, and auto-synced from LeetCode.**
+**A structured archive of SQL problem solutions — solved, tracked, and auto-synced from LeetCode.**
 
 ![Language](https://img.shields.io/badge/Focus-DSA%20%26%20SQL-06B6D4?style=flat-square)
 ![Sync](https://img.shields.io/badge/Synced%20via-LeetSync-7B2CBF?style=flat-square)
@@ -14,7 +14,7 @@
 
 ## 📌 About
 
-This repository is a running log of my LeetCode problem-solving practice, covering both **DSA (Data Structures & Algorithms)** and **SQL** problems. Each solved problem is auto-committed via **LeetSync**, capturing the solution, runtime, and memory footprint at the time of submission — giving this repo a natural performance trail alongside the code itself.
+This repository is a running log of my LeetCode problem-solving practice, covering **SQL** problems. Each solved problem is auto-committed via **LeetSync**, capturing the solution, runtime, and memory footprint at the time of submission — giving this repo a natural performance trail alongside the code itself.
 
 It's part of my broader GATE 2027 + software engineering prep, used to build problem-solving consistency and track progress over time.
 
@@ -25,15 +25,13 @@ It's part of my broader GATE 2027 + software engineering prep, used to build pro
 Each problem gets its own folder, named `<problem-number>-<problem-slug>`, containing the solution file(s) for that problem.
 
 ```
-LeetCode--DSA-SQL/
+LeetCode-SQL/
 ├── 1908-recyclable-and-low-fat-products/
 │   └── solution.sql
 ├── <next-problem-number>-<slug>/
 │   └── solution.<ext>
 └── README.md
 ```
-
-- **DSA problems** → solutions in the relevant language (Python/C++/Java as applicable)
 - **SQL problems** → solutions as `.sql` files, following the exact LeetCode schema
 
 ---
